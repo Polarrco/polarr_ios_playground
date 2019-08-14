@@ -9,7 +9,9 @@
   For the purpose of this experiment, it's wired up so that when a grid cell needs to show or update, a kernel function will get called, resulting in how that cell is configured. You can think of it as a simulation of Fragment shaders or kernel functions in the GPU where in terms of image processing you are often operating on a per pixel basis in parallel.
  
  You shouldn't need too, but feel free to alter any source files you need to.
+ 
 */
+
 import UIKit
 import PlaygroundSupport
 import simd
@@ -116,3 +118,5 @@ Use your creativity to show or display something interesting in the grid.
  Find a meaningful way to improve this assignment and submit a PR to the repo or deliver privately via a zipped project folder. This could be an additional question. Bug fix. Some additional feature to the base project that will improve the experience for future candidates.
  
  */
+
+//: ![The real head of the household?](yinyang.png)
